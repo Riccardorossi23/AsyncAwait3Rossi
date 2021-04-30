@@ -29,7 +29,6 @@
                 <Label Content="Primo:" Grid.Row="1" Grid.Column="3"  VerticalContentAlignment="Center" Height="40" HorizontalContentAlignment="Center" />
                 <Label x:Name="lblPrimo" Grid.Row="1" Grid.Column="4"  Width="100" Height="40" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" />
                 <Button x:Name="btnEsegui" Content="Esegui" Grid.Column="5" Grid.Row="0" Grid.RowSpan="2"  Width="60" Height="60" Click="btnEsegui_Click"  />
-
             </Grid>
         </Grid>
     </StackPanel>
